@@ -1,5 +1,4 @@
-# 🚀 Optimal Path for Data Transfer
-
+# 🚀 Network-Routing-Algorithms
 A C-based implementation of graph algorithms for efficient network routing and data transfer optimization. This project compares multiple graph representations and algorithms to determine the optimal communication path between network nodes based on shortest path and maximum bandwidth.
 
 ---
